@@ -1,1 +1,1 @@
-![Alt text] (image.png)
+![Java on old phone with Duke mascots](image.jpg)
