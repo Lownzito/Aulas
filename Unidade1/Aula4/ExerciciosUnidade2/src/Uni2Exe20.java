@@ -9,7 +9,7 @@ public class Uni2Exe20 {
         System.out.println("Insira o número de dobras feitas");
         numeroDeDobras = sc.nextInt();
 
-        System.out.println("O número de quadrados é:" + (numeroDeDobras * 4));
+        System.out.println("O número de quadrados é:" + (int) Math.pow(2, numeroDeDobras));
 
         sc.close();
     }
