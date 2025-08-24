@@ -13,4 +13,29 @@ public class Uni2Exe20 {
 
         sc.close();
     }
+
+    /**
+     * Teste de Mesa:
+     * 
+     * Teste 1:
+     * Entrada:
+     * Número de dobras: 4
+     * 
+     * Saída:
+     * O número de quadrados é:16
+     * 
+     * Teste 2:
+     * Entrada:
+     * Número de dobras: 8
+     * 
+     * Saída:
+     * O número de quadrados é:256
+     * 
+     * Teste 1:
+     * Entrada:
+     * Número de dobras: 10
+     * 
+     * Saída:
+     * O número de quadrados é:1024
+     */
 }

@@ -36,5 +36,39 @@ public class Uni2Exe08 {
         System.out.println("O total a ser pago será: " + String.format("%,.2f", totalPeca1 + totalPeca2));
 
         sc.close();
+
+        /**
+         * Teste de Mesa:
+         * 
+         * Teste 1:
+         * Entradas:
+         * ID Peça1: 1; Valor Peça 1: 5; Quantidade Peça 1: 10,99;
+         * ID Peça2: B; Valor Peça 2: 9; Quantidade Peça 2: 32,59;
+         * 
+         * Saídas:
+         * O total a ser pago da peça: 1 será: 54,95 
+         * O total a ser pago da peça: B será: 293,31
+         * O total a ser pago será: 348,26
+         * 
+         * Teste 2:
+         * Entradas:
+         * ID Peça1: 2; Valor Peça 1: 10; Quantidade Peça 1: 20;
+         * ID Peça2: C; Valor Peça 2: 18; Quantidade Peça 2: 64;
+         * 
+         * Saídas:
+         * O total a ser pago da peça: 2 será: 200,00
+         * O total a ser pago da peça: C será: 1.152,00
+         * O total a ser pago será: 1.352,00
+         * 
+         * Teste 3:
+         * Entradas:
+         * ID Peça1: 3; Valor Peça 1: 20; Quantidade Peça 1: 40;
+         * ID Peça2: D; Valor Peça 2: 36; Quantidade Peça 2: 128;
+         * 
+         * Saídas:
+         * O total a ser pago da peça: 3 será: 800,00
+         * O total a ser pago da peça: D será: 4.608,00
+         * O total a ser pago será: 5.408,00
+         */
     }
 }

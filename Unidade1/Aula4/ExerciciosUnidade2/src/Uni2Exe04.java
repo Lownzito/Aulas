@@ -17,5 +17,24 @@ public class Uni2Exe04 {
         System.out.println("Média final foi: " + media/11);
 
         sc.close();
+
+        /**
+         * Teste de Mesa:
+         * 
+         * Teste 1:
+         * Entradas:
+         * Nota 1: 10; Nota 2: 10;
+         * Saida: 10;
+         * 
+         * Teste 2:
+         * Entradas:
+         * Nota 1: 7; Nota 2: 7;
+         * Saida: 7;
+         * 
+         * Teste 3:
+         * Entradas:
+         * Nota 1: 5; Nota 2: 5;
+         * Saida: 5;
+         */
     }
 }

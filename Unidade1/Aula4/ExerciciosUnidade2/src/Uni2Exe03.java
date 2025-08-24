@@ -15,14 +15,17 @@ public class Uni2Exe03 {
         sc.close();
 
         /**
-         * Teste de Mesa4
+         * Teste de Mesa:
+         * 
          * Teste 1:
          * Entrada: raio: 7,15
          * Saída: A circuferência é: 8.400456622576472
+         * 
          * Teste 2:
          * Entrada: raio: 4
          * Saída: A circuferência é: 50.26548245743669
          * Teste 3:
+         * 
          * Entrada: raio: 5
          * Saída: A circuferência é: 78.53981633974483
          */

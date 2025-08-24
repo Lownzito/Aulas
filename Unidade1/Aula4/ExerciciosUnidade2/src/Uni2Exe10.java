@@ -24,6 +24,31 @@ public class Uni2Exe10 {
         System.out.println(horas+":"+minutos+":"+segundos);
 
         sc.close();
+
+        /**
+         * Teste de Mesa:
+         * 
+         * Teste 1:
+         * 
+         * Entrada: 
+         * Tempo de Operação: 4770;
+         * Saída:
+         * 1:19:30
+         * 
+         * Teste 2:
+         * 
+         * Entrada:
+         * Tempo de Operação: 49870 
+         * Saída:
+         * 13:51:10
+         * 
+         * Teste 3:
+         * 
+         * Entrada:
+         * Tempo de Operação: 5387000 
+         * Saída:
+         * 1496:23:20
+         */
     }
     
 }

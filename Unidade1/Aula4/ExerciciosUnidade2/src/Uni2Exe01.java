@@ -16,10 +16,18 @@ public class Uni2Exe01 {
         sc.close();
 
         /**
-         * Teste de Mesa
+         * Teste de Mesa 1
          * Entrada: valor1 = 5, valor2 = 10
          * Processamento: valor1+ valor2
          * Saída deve ser: 15
+         * 
+         * Teste de Mesa 2 
+         * Entrada: valor1 = 10, valor2 = 15
+         * Saída deve ser: 25
+         * 
+         * Teste de Mesa 3 
+         * Entrada: valor1 = 15, valor2 = 20
+         * Saída deve ser: 35
          */
     }
 

@@ -27,5 +27,30 @@ public class Uni2Exe06 {
         System.out.println("O funcionário com o digito: "+ numeroFuncionario + " teve um salário de: " + String.format("%,.2f", salario));
 
         sc.close();
+
+        /**
+         * Teste de Mesa:
+         * 
+         * Teste 1:
+         * Entradas:
+         * NumeroFuncionario: 1; Horas Trabalhadas: 2; ValorHora: 3,50;
+         * 
+         * Saída:
+         * O funcionário com o digito: 1 teve um salário de: 7,00
+         * 
+         * Teste 2:
+         * Entradas:
+         * NumeroFuncionario: 2; Horas Trabalhadas: 4; ValorHora: 7;
+         * 
+         * Saída:
+         * O funcionário com o digito: 2 teve um salário de: 28,00
+         * 
+         * Teste 1:
+         * Entradas:
+         * NumeroFuncionario: 3; Horas Trabalhadas: 8; ValorHora: 14;
+         * 
+         * Saída:
+         * O funcionário com o digito: 3 teve um salário de: 112,00
+         */
     }
 }

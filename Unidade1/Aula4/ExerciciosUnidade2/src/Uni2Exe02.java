@@ -14,10 +14,20 @@ public class Uni2Exe02 {
         System.out.println("O valor é: " + (valor1 * valor2));
         sc.close();
         /**
-         * Teste de Mesa
+         * Teste de Mesa 1
          * Entrada: valor1= 2, valor2 = 2;
          * Processamento: valor1 * valor2;
-         * Saída: O valor é 4;
+         * Saída: 4;
+         * 
+         * Teste de Mesa 2
+         * Entrada: valor1= 3, valor2 = 3;
+         * Processamento: valor1 * valor2;
+         * Saída: 9;
+         * 
+         * Teste de Mesa 3
+         * Entrada: valor1= 4, valor2 = 4;
+         * Processamento: valor1 * valor2;
+         * Saída: 16;
          */
     }
 }

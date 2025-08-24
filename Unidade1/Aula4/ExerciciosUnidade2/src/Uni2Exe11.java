@@ -28,6 +28,44 @@ public class Uni2Exe11 {
         sc.close();
     }
 
+    /**
+     * Teste de Mesa:
+     * 
+     * Teste: 1
+     * Entradas:
+     * Valor A: 5; ValorB: 10; Valor C: 15;
+     * 
+     * Saídas:
+     * A area do triângulo retângulo é: 37.5
+     * A área do círculo é: 706.85775       
+     * A área do trapézio é: 112.5
+     * A área do quadrado é: 100.0
+     * A área do Retângulo é: 50.0
+     * 
+     * Teste: 2
+     * Entradas:
+     * Valor A: 10; ValorB: 15; Valor C: 20,5;
+     * 
+     * Saídas:
+     * A area do triângulo retângulo é: 102.5
+     * A área do círculo é: 1320.2531975
+     * A área do trapézio é: 256.25
+     * A área do quadrado é: 225.0
+     * A área do Retângulo é: 150.0
+     * 
+     * Teste: 2
+     * Entradas:
+     * Valor A: 10,3; ValorB: 15,4; Valor C: 20,2;
+     * 
+     * Saídas:
+     * A area do triângulo retângulo é: 104.03
+     * A área do círculo é: 1281.8943835999999
+     * A área do trapézio é: 259.57
+     * A área do quadrado é: 237.16000000000003
+     * A área do Retângulo é: 158.62
+     * 
+     */
+
     public static double calcAreaTrianguloRetangulo(double base, double altura) {
         double calculo = (base * altura) / 2f;
 

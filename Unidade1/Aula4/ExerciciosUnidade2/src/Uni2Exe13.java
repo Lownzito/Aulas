@@ -13,4 +13,32 @@ public class Uni2Exe13 {
 
         sc.close();
     }
+
+    /**
+     * Teste de mesa:
+     * 
+     * Teste 1:
+     * 
+     * Entradas:
+     * Distancia: 30
+     * 
+     * Saída:
+     * O carro Y levou 60 minutos
+     * 
+     * Teste 2:
+     * 
+     * Entradas:
+     * Distancia: 97
+     * 
+     * Saída:
+     * O carro Y levou 194 minutos
+     * 
+     * Teste 1:
+     * 
+     * Entradas:
+     * Distancia: 55
+     * 
+     * Saída:
+     * O carro Y levou 110 minutos
+     */
 }

@@ -26,4 +26,30 @@ public class Uni2Exe12 {
 
         sc.close();
     }
+
+    /**
+     * Testes de Mesa
+     * 
+     * Teste 1:
+     * Entradas:
+     * x1: 5; y1: 10; x2: 20; y2: 25;
+     * 
+     * Saída:
+     * A distância entre os dois pontos é de: 21,2132
+     * 
+     * Teste 2:
+     * Entradas:
+     * x1: 10; y1: 15; x2: 5,4; y2: 3,3;
+     * 
+     * Saída:
+     * A distância entre os dois pontos é de: 12,5718
+     * 
+     * Teste 3:
+     * Entradas:
+     * x1: 5,3; y1: 3,2; x2: 5,4; y2: 3,3;
+     * 
+     * Saída:
+     * A distância entre os dois pontos é de: 0,1414
+     * 
+     */
 }

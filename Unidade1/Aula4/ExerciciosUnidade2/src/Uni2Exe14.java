@@ -28,4 +28,47 @@ public class Uni2Exe14 {
 
         sc.close();
     }
+
+    /**
+     * Teste de Mesa:
+     * 
+     * Teste 1:
+     * Entrada:
+     * Valor a ser decomposto: 137
+     * 
+     * Saída:
+     * Notas de 100: 1
+     * Notas de 50: 0
+     * Notas de 20: 1
+     * Notas de 10: 1
+     * Notas de 5: 1 
+     * Notas de 5: 1 
+     * Notas de 1: 0 
+     * 
+     * Teste 2:
+     * Entrada:
+     * Valor a ser decomposto: 23145
+     * 
+     * Saída:
+     * Notas de 100: 231
+     * Notas de 50: 0
+     * Notas de 20: 2
+     * Notas de 10: 0
+     * Notas de 5: 1
+     * Notas de 5: 0
+     * Notas de 1: 0
+     * 
+     * Teste 3:
+     * Entrada:
+     * Valor a ser decomposto: 245114
+     * 
+     * Saída:
+     * Notas de 100: 2451
+     * Notas de 50: 0
+     * Notas de 20: 0
+     * Notas de 10: 1
+     * Notas de 5: 0
+     * Notas de 5: 2
+     * Notas de 1: 0
+     */
 }

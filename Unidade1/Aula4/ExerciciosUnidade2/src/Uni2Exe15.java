@@ -50,4 +50,62 @@ public class Uni2Exe15 {
 
         sc.close();
     }
+
+    /**
+     * Teste de Mesa:
+     * 
+     * Teste 1:
+     * Entrada: 
+     * Valor a ser decomposto: 314,59
+     * 
+     * Saídas:
+     * Notas de 100 Reais: 3   
+     * Notas de 50 Reais: 0    
+     * Notas de 20 Reais: 0    
+     * Notas de 10 Reais: 1    
+     * Notas de 5 Reais: 0     
+     * Notas de 2 Reais: 2     
+     * Moedas de 1 Real: 0     
+     * Moedas de 50 Centavos: 1
+     * Moedas de 25 Centavos: 0
+     * Moedas de 10 Centavos: 0
+     * Moedas de 5 Centavos: 1 
+     * Moedas de 1 Centavo: 4
+     * 
+     * Teste 2:
+     * Entrada: 
+     * Valor a ser decomposto: 1234,83
+     * 
+     * Saídas:
+     * Notas de 100 Reais: 12
+     * Notas de 50 Reais: 0
+     * Notas de 20 Reais: 1
+     * Notas de 10 Reais: 1
+     * Notas de 5 Reais: 0
+     * Notas de 2 Reais: 2
+     * Moedas de 1 Real: 0
+     * Moedas de 50 Centavos: 1
+     * Moedas de 25 Centavos: 1
+     * Moedas de 10 Centavos: 0
+     * Moedas de 5 Centavos: 1
+     * Moedas de 1 Centavo: 3
+     * 
+     * Teste 3:
+     * Entrada: 
+     * Valor a ser decomposto: 53,12
+     * 
+     * Saídas:
+     * Notas de 100 Reais: 0
+     * Notas de 50 Reais: 1
+     * Notas de 20 Reais: 0
+     * Notas de 10 Reais: 0
+     * Notas de 5 Reais: 0
+     * Notas de 2 Reais: 1
+     * Moedas de 1 Real: 1
+     * Moedas de 50 Centavos: 0
+     * Moedas de 25 Centavos: 0
+     * Moedas de 10 Centavos: 1
+     * Moedas de 5 Centavos: 0
+     * Moedas de 1 Centavo: 2
+     */
 }

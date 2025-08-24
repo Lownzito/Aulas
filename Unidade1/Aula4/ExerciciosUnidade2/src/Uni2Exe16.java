@@ -21,5 +21,33 @@ public class Uni2Exe16 {
         System.out.println("Litros de refrigerante comprados: " + calc);
 
         sc.close();
+
+        /**
+         * Teste de Mesa:
+         * 
+         * Teste 1:
+         * Entradas:
+         * Quantidade Lata: 3; Quantidade Garrafa 600ml: 2;
+         * Quantidade Garrafa 2L: 6;
+         * 
+         * Saída:
+         * Litros de refrigerante comprados: 14.25
+         * 
+         * Teste 2:
+         * Entradas:
+         * Quantidade Lata: 1; Quantidade Garrafa 600ml: 1;
+         * Quantidade Garrafa 2L: 1;
+         * 
+         * Saída:
+         * Litros de refrigerante comprados: 2.95
+         * 
+         * Teste 3:
+         * Entradas:
+         * Quantidade Lata: 4; Quantidade Garrafa 600ml: 10;
+         * Quantidade Garrafa 2L: 40;
+         * 
+         * Saída:
+         * Litros de refrigerante comprados: 87,4
+         */
     }
 }
