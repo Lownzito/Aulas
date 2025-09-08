@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class Uni3Exe13 {
+    private static final float valorAzulejoMetro = 112.5f;
+
     public static void main(String[] args) {
         float altura, comprimento;
 
@@ -24,8 +26,6 @@ public class Uni3Exe13 {
     }
 
     private static float calcValorFinal(float area) {
-        float valorAzulejoMetro = 112.5f;
-
         int areaInteira = (int) area;
         float areaRestante = area - areaInteira;
 
