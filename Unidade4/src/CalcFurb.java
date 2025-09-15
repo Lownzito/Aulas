@@ -71,19 +71,18 @@ public class CalcFurb {
 
     private void shouldContinue() {
         System.out.println("Você gostaria de continuar?");
+
         System.out.println("Sim - 1");
         System.out.println("Não - 2");
 
         int shouldContinue = sc.nextInt();
 
-        if (shouldContinue == 1) {
+        if (shouldContinue == 1) 
+        {
             inputValues();
-        } else if(shouldContinue == 2) {
+        } else {
             System.out.println("Tchau, tenha um bom dia!");
-        }
-        else{ 
-            System.out.println("Insira uma opção válida!");
-            shouldContinue();
+            sc.close();
         }
     }
 
