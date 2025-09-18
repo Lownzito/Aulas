@@ -41,7 +41,7 @@ public class Uni4Exe12 {
             }
 
         } else {
-            System.out.println("Não formam um triângulo");
+            System.out.println("Não forma um triângulo");
         }
     }
 }
